@@ -1,0 +1,29 @@
+h1{
+    color:purple !important;
+}
+
+.first-lesson{
+    color: black;
+    font-size: 40px;
+    background-color: bisque;
+}
+
+<style>
+    .addme-button{
+        background-color: rgb(46, 164, 79);
+        color: white;
+        height: 36px;
+        width: 150px;
+        font-weight: bold;
+        border: 1px;
+        border-radius: 15px;
+        cursor: pointer;
+        margin-left: 15px;
+    }
+</style>
+
+img{
+    border-width: 2;
+    border-style: dotted;
+    border-color: black;
+}
